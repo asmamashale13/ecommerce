@@ -1,0 +1,36 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Solid Lycra Blend Scarf",
+        "price": 999,
+        "Img": "./src/assets/img/1.jpeg",
+        "quantity":1
+      },
+      {
+        "id": 2,
+        "title": "Lexious Suit Solid Boys Suite",
+        "price": 10099,
+        "Img": "./src/assets/img/2.jpeg",
+        "quantity":1
+
+      },
+      {
+        "id": 3,
+        "title": "Anarkali girl dress",
+        "price": 999,
+        "Img": "./src/assets/img/4.jpg",
+        "quantity":1
+
+      },
+      {
+        "id": 4,
+        "title": "Girl's Black Bracelate",
+        "price": 99,
+        "Img": "./src/assets/img/6.jpeg",
+        "quantity":1
+
+      }
+      
+    ]
+}
